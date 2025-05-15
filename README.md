@@ -1,4 +1,4 @@
-# Project Title
+# DPMI
 
 ## Overview
 This project is a collection of differential privacy mechanisms, evaluation tools, and datasets for privacy-preserving machine learning research. It includes modules for dataset synthesis, model training, and explanation evaluation, supporting a variety of privacy-preserving algorithms and benchmarks.

@@ -7,7 +7,7 @@ This repository is the official implementation of the DPMI framework, supporting
 DPMI provides a holistic pipeline to evaluate how differential privacy (DP) mechanisms affect model explainability. The framework covers two types of DP noise injection (DP training and DP dataset synthesis) and a broad set of explainability methods and metrics. The system is modular and extensible for benchmarking new privacy or explainability techniques.
 
 <p align="center">
-  <img src="pipeline.pdf" alt="DPMI System Pipeline" width="600"/>
+  <img src="pipeline.png" alt="DPMI System Pipeline" width="600"/>
 </p>
 
 **Figure:** Architectural overview of DPMI for assessing the impact of DP on model explainability. The system comprises three main modules: Method Pool, DP Mechanism, and Explanation Evaluation.

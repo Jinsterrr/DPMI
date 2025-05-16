@@ -165,5 +165,10 @@ Batch scripts are provided in the `scripts/` directory for each stage:
 Contributions are welcome! Please open issues or submit pull requests.
 
 ## Citation
-
-If you use this codebase, please cite the relevant papers and this repository. 
+Our implementation refers to the source code from the following repositories:
+- [DPMLBench](https://github.com/DmsKinson/DPMLBench)
+- [DPSDA](https://github.com/microsoft/DPSDA)
+- [PrivImage](https://github.com/SunnierLee/DP-ImaGen)
+- [DPMEPF](https://github.com/ParkLabML/DP-MEPF)
+- [Captum](https://github.com/pytorch/captum)
+- [Fovex](https://github.com/mahadev1995/FovEx)
